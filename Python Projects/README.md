@@ -18,7 +18,7 @@ pandas, matplotlib, seaborn, numpy
 ## Conclusión
 La limpieza inicial permitió trabajar con datos más relevantes y facilitó el análisis exploratorio para entender patrones clave de supervivencia.
 
-# INGLES
+# ENGLISH
 
 # Titanic Analysis - Data Cleaning & EDA
 ## 🔧 Initial Setup
